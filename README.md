@@ -1,0 +1,1 @@
+Built a Python-based forecasting model for the 2026 Washington Nationals using game-level data, sabermetrics, opponent strength, and Monte Carlo simulation to project their final win total and quantify forecast uncertainty.
